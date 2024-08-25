@@ -70,11 +70,11 @@ transition: ease-in-out 1s;
     }
 }
 .item.active img.fruit{
-    animation: toActive 0.5s ease-in-out 1;
+    animation: toActive 0.5s ease-in-out ;
 }
 .item.active .title{
-    animation: toActive 0.5s ease-in-out 1;
+    animation: toActive 0.5s ease-in-out ;
 }
 .item.active img.refri{
-    animation: toActive 2s ease-in-out 1;
+    animation: toActive 2s ease-in-out ;
 }
